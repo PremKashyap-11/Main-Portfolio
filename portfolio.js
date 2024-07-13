@@ -1,5 +1,5 @@
 let button=document.querySelector(".btn").onclick=()=>{
-    window.open("RESUME1.docx");
+    window.open("RESUME.pdf");
 }
 let button1=document.querySelector(".btn2").onclick=()=>{
     window.location.href="#contact";
